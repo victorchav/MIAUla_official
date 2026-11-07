@@ -39,4 +39,4 @@ def iniciar_sesion():
                 break
 
         if not encontrado:
-            print(f"Codigo unico: {nombre_de_usuario_de_inicio_de_sesion} no esta registrado")
+            print(f"Nombre de usuario: {nombre_de_usuario_de_inicio_de_sesion} no esta registrado")
